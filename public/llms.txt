@@ -1,0 +1,56 @@
+# ד"ר שמואל מולי מנדל — Generative Engine Optimization Map
+
+> A אימון עיסקי וריגשי business.
+
+---
+
+## Pages
+
+### Home
+https://-e46b5686.zappy5.app
+
+### About
+https://-e46b5686.zappy5.app/about
+
+### Services
+https://-e46b5686.zappy5.app/services
+
+### Contact
+https://-e46b5686.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e46b5686.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e46b5686.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e46b5686.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ד"ר שמואל מולי מנדל
+ד"ר שמואל מולי מנדל is a business in the אימון עיסקי וריגשי industry.
+
+## Target Audience
+- מנהיגים עיסקיים הזקוקים להנחיה
+- מאמנים ריגשיים
+- מחפשי התפתחות אישית
+- מנהלי משאבי אנוש
+
+## Industry
+אימון עיסקי וריגשי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e46b5686.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e46b5686.zappy5.app/robots.txt
